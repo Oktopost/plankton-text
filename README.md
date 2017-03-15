@@ -7,13 +7,21 @@ Text manipulation methods built on top of Plankton namespace.
 var text = window.plankton.text;
 ```
 
-## Capitalize
+Or
+
+``` javascript
+var text = require('plankton-text');
+```
+
+## Usage
+
+### Capitalize
 
 ``` javascript
 text.capitalize('myText'); // MyText
 ``` 
 
-## Camelize
+### Camelize
 
 ``` javascript
 text.camelize('MyClassName'); // myClassName

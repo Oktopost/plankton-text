@@ -1,18 +1,18 @@
 {
-  "name": "plankton-text",
-  "description": "Text manipulation methods built on top of Plankton namespace.",
-  "version": "0.0.1",
-  "main": "plankton-text.js",
-  "authors": [
-    "Liad Guez <liad@oktopost.com>"
-  ],
-  "license": "MIT",
-  "homepage": "",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+	"name": "plankton-text",
+	"description": "Text manipulation methods built on top of Plankton namespace.",
+	"version": "0.0.2",
+	"main": "plankton-text.js",
+	"authors": [
+			"Liad Guez <liad@oktopost.com>"
+	],
+	"license": "MIT",
+	"homepage": "",
+	"ignore": [
+			"**/.*",
+			"node_modules",
+			"bower_components",
+			"test",
+			"tests"
+	]
 }
