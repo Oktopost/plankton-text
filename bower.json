@@ -1,0 +1,17 @@
+{
+  "name": "Plankton Text",
+  "description": "Text manipulation methods built on top of Plankton namespace.",
+  "main": "plankton-text.js",
+  "authors": [
+    "Liad Guez <liad@oktopost.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
