@@ -15,6 +15,6 @@ var camelize = function (string) {
 
 
 module.exports = {
-	capitalize: capitalize
+	capitalize: capitalize,
 	camelize: camelize
 };
