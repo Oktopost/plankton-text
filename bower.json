@@ -1,5 +1,5 @@
 {
-  "name": "Plankton Text",
+  "name": "plankton-text",
   "description": "Text manipulation methods built on top of Plankton namespace.",
   "main": "plankton-text.js",
   "authors": [
