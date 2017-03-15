@@ -1,6 +1,7 @@
 {
   "name": "plankton-text",
   "description": "Text manipulation methods built on top of Plankton namespace.",
+  "version": "0.0.1",
   "main": "plankton-text.js",
   "authors": [
     "Liad Guez <liad@oktopost.com>"
