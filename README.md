@@ -15,15 +15,20 @@ var text = require('plankton-text');
 
 ## Usage
 
-### Capitalize
+### capitalize
 
 ``` javascript
 text.capitalize('myText'); // MyText
 ``` 
 
-### Camelize
+### camelize
 
 ``` javascript
 text.camelize('MyClassName'); // myClassName
 text.camelize('my class name'); // myClassName
+```
+
+### ucwords
+``` javascript
+text.ucwords('my nice title'); // My Nice Title
 ```
